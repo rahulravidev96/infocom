@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Infocom</string>
+    <string name="email">Email</string>
+    <string name="number">Number</string>
+    <string name="enter_email_name">Enter Email Name</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="submit">Submit</string>
+</resources>
